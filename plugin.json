@@ -1,0 +1,12 @@
+{
+  "ID": "A1B2C3D4-RUST-VOL-4E5F-8A9B-0C1D2E3F4G5H",
+  "ActionKeyword": "vol",
+  "Name": "Windows Volume Control",
+  "Description": "Control Windows master volume . Mute, set 0-100, up/down.",
+  "Author": "Saif Al-zahrani",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://github.com/specailm5/Flow.Launcher.Plugin.VolumeControl",
+  "IcoPath": "Images\\icon.png",
+  "ExecuteFileName": "main.py"
+}
