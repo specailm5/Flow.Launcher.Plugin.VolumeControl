@@ -102,6 +102,10 @@ This plugin consists of two components:
 
 ---
 
+## THANKS
+Special thanks to [Freepik](https://www.freepik.com) for the speaker icon used in this plugin.
+[Speaker icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/speaker)
+
 ## License
 
 MIT © 2025 Saif Al-zharani 
