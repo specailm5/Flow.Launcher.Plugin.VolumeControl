@@ -104,5 +104,5 @@ This plugin consists of two components:
 
 ## License
 
-MIT © 2025 [Your Name or Organization]  
+MIT © 2025 Saif Al-zharani 
 Contributions and feedback are welcome!
